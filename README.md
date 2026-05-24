@@ -2,9 +2,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates **UI Test Automation** for an E-commerce web application using **Selenium WebDriver, Java, TestNG, and Maven**.
-
-The goal of this project is to automate important user flows of an online shopping system such as login, adding items to the cart, and completing the checkout process.
+A Selenium-based automation testing project for an e-commerce application, validating key user flows such as login, product selection, cart operations, and checkout using Java, TestNG, and the Page Object Model (POM) framework.
 
 This project is designed as a **practice automation framework** for learning Selenium and improving skills required for a **QA Automation Internship**.
 
