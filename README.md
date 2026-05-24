@@ -76,10 +76,6 @@ selenium-ecommerce-automation
 
 ### 1️⃣ Clone the repository
 
-```
-git clone https://github.com/janithumayanga2004/selenium-ecommerce-automation.git
-```
-
 ### 2️⃣ Open the project in IntelliJ IDEA
 
 ### 3️⃣ Install dependencies
@@ -110,14 +106,13 @@ This project was created to practice **Selenium Web Automation Testing** and dem
 
 ## 👨‍💻 Author
 
-**Janith Umayanga**
+**Sainsa Rethmi Thennakoon**
 
 * 🎓 Software Engineering Student
 * 💻 Interested in QA Automation & Software Testing
 * 🌍 Sri Lanka
 
-📧 Email: [umayanga@gmail.com](mailto:umayanga@gmail.com)
-
+ 
 ---
 
 ## ⭐ If you like this project
